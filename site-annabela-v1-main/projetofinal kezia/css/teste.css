@@ -1,0 +1,26 @@
+@import url(variable.css);
+/* body{
+    background-color: #d2d2c1 url('/html/fundo.png');
+    font: 16px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+ */
+
+body{
+    background-color: #d2d2c1;
+   background-image: url('/projetofinal\ kezia/fundo');
+
+}
+
+ ul> li{
+    display:inline;
+    text-transform: uppercase;
+    list-style-type:none;
+    color:var(--cor-menu);
+    font-family: var(--font-family-site);
+}
+
+
+

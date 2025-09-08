@@ -1,0 +1,27 @@
+/* body{
+    background-color: #d2d2c1 url('/html/fundo.png');
+    font: 16px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+ */
+
+body{
+    background-color: #d2d2c1 url('/html/fundo.png');
+    font: 16px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#conteudo{
+    background: #e8e8d9;
+    padding: 10px;
+}
+#rodape{
+    text-align: center;
+}
+a{
+    color: #4b555a;
+    text-decoration: none;
+}
+
